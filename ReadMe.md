@@ -1,5 +1,5 @@
 # User Management JSP
-[User Management JSP] is a full stack beautiful admin dashboard for user management, product management, collection management and brand management. The work is inspired by  [user-management-frontend](https://github.com/user-management-frontend) with our love on top of that. With the powerful Java as the backend, JSP(mainly HTML and Javascript) as the high performance on the frontend, User Management JSP appears to be a full-stack solution for an enterprise application level.
+**User Management JSP** is a full stack beautiful admin dashboard for user management, product management, collection management and brand management. The work is inspired by  [user-management-frontend](https://github.com/longma19900415/user-management-frontend) with our love on top of that. With the powerful Java as the backend, JSP(mainly HTML and Javascript) as the high performance on the frontend, User Management JSP appears to be a full-stack solution for an enterprise application level.
 
 ## Getting started
 
