@@ -19,7 +19,7 @@
 
 ## Running the tests
 * In eclipse, run the program on server.
-* Open the browswer, navigate to `<http://localhost:8080/DashboardDemo>`_ and enjoy it.
+* Open the browswer, navigate to http://localhost:8080/DashboardDemo and enjoy it.
 
 ## Authors
 
