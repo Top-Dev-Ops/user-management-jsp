@@ -21,10 +21,6 @@
 * In eclipse, run the program on server.
 * Open the browswer, navigate to http://localhost:8080/DashboardDemo and enjoy it.
 
-## Authors
-
-* **LongMa Lin**.
-
 ## License
 
 This project is licensed under the GIT License.
